@@ -29,3 +29,7 @@ Dirigirse a la carpeta "/target" y ejecutar el siguiente comando:
 La API se levantara en un servidor tomcat con el puerto 5005
 
 
+Para cambiar el puerto de la API dirigirse al archivo "/raiz/src/main/resources/application.properties":
+- cambiar parametro "server.port=" al puerto preferido
+
+
