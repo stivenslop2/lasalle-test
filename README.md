@@ -7,7 +7,7 @@ La Salle API Prueba Técnica
 Actualmente corre un demo en un servidor en la nube con la siguientes caracteristicas:
 
 - [Endpoint API](http://34.201.6.83:5005/)
-- [Swagger Docs](http://34.201.6.83:5005/)
+- [Swagger Docs](http://34.201.6.83:5005/swagger-ui.html)
 
 ## Requisitos
 
